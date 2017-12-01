@@ -5,4 +5,8 @@ meiyoushi
 meiyoushi
 meiyoushi
 meiyoushi.
-abcd is di san ci ti jiao xiu gai GitHub.
+<<<<<<< HEAD
+that is di san ci ti jiao xiu gai GitHub.
+=======
+that is di san ci ti jiao xiu gai GitHub.
+>>>>>>> dev
